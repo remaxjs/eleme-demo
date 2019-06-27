@@ -1,0 +1,9 @@
+{
+  "pages": [
+    "pages/home/index"
+  ],
+  "window": {
+    "defaultTitle": "饿了么",
+    "titleBarColor": "#0085ff"
+  }
+}

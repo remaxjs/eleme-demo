@@ -1,0 +1,18 @@
+{
+  "name": "eleme-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "remax dev",
+    "build": "remax build"
+  },
+  "keywords": [],
+  "author": "Wei Zhu <yesmeck@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "less": "^3.9.0",
+    "react": "^16.8.6"
+  }
+}
